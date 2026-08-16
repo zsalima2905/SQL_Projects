@@ -4,13 +4,13 @@ SQL_Payroll
 
 A beginner-level SQL project using **MySQL** to create and analyze a payroll database containing employee and department information.
 
-## Project Overview
+# Project Overview
 
 This project demonstrates SQL skills including database creation, table creation, data insertion, filtering, joins, aggregate functions, string functions, date functions, and salary analysis.
 
-## Database Structure
+# Database Structure
 
-### Departments
+## Departments
 
 * Dept_Id
 * Dept_Name
@@ -27,7 +27,7 @@ This project demonstrates SQL skills including database creation, table creation
 * Doj
 * Manager_Name
 
-## SQL Concepts Used
+# SQL Concepts Used
 
 * Database and table creation
 * `INSERT` and `SELECT`
@@ -45,7 +45,7 @@ This project demonstrates SQL skills including database creation, table creation
 * Date functions
 * Salary calculations
 
-## Analysis Performed
+# Analysis Performed
 
 * Counted total employees
 * Retrieved employee names in different formats
@@ -62,12 +62,12 @@ This project demonstrates SQL skills including database creation, table creation
 * Identified departments with average salary above ₹60,000
 * Calculated total salary by department
 
-## Tools
+# Tools
 
 **Database:** MySQL
 **Language:** SQL
 
-## Files
+# Files
 
 * `payroll_analysis.sql` — Complete SQL script used to create and analyze the database.
 
